@@ -2853,7 +2853,7 @@ packages:
   esbuild-plugin-pino@2.2.0:
     resolution: {integrity: sha512-6T92eXmkHwad/PGeXb/DyJhwxsVUsASQyEP84QTPBuzhDp1eGRXr9CK2y/VCKiEbO2TX2v4zZ6M40W46eZZPQg==}
     peerDependencies:
-      esbuild: ^0.17.1 || ^0.18.0 || ^0.19.0 || ^0.20.0 || ^0.21.0
+      esbuild: ^0.17.1 || ^0.18.0 || ^0.19.0 || ^0.20.0 || ^0.21.0 || ^0.25.0
 
   esbuild@0.19.11:
     resolution: {integrity: sha512-HJ96Hev2hX/6i5cDVwcqiJBBtuo9+FeIJOtZ9W1kA5M6AMJRHUZlpYZ1/SbEwtO0ioNAW8rUooVpC/WehY2SfA==}
@@ -7985,7 +7985,7 @@ snapshots:
 
   esbuild-plugin-pino@2.2.0(esbuild@0.25.0):
     dependencies:
-      esbuild: 0.20.0
+      esbuild: 0.25.0
 
   esbuild@0.19.11:
     optionalDependencies:
