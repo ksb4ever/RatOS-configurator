@@ -158,7 +158,7 @@
 		"@types/luxon": "^3.4.2",
 		"@types/node": "18.19.4",
 		"@types/object-hash": "^3.0.6",
-		"@types/react": "18.2.21",
+		"@types/react": "18.3.1",
 		"@types/split2": "^4.2.3",
 		"@types/uuid": "^9.0.8",
 		"@typescript-eslint/parser": "^7.0.0",
