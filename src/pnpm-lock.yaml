@@ -163,7 +163,7 @@ importers:
         version: 7.5.8
       '@typescript-eslint/eslint-plugin':
         specifier: ^7.0.2
-        version: 7.0.2(@typescript-eslint/parser@6.19.0(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)(typescript@5.5.2)
+        version: 7.0.2(@typescript-eslint/parser@7.0.0(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)(typescript@5.5.2)
       '@use-gesture/react':
         specifier: ^10.3.0
         version: 10.3.0(react@18.2.0)
@@ -415,8 +415,8 @@ importers:
         specifier: ^9.0.8
         version: 9.0.8
       '@typescript-eslint/parser':
-        specifier: ^6.19.0
-        version: 6.19.0(eslint@8.56.0)(typescript@5.5.2)
+        specifier: ^7.0.0
+        version: 7.0.0(eslint@8.56.0)(typescript@5.5.2)
       '@typescript-eslint/typescript-estree':
         specifier: 6.19.0
         version: 6.19.0(typescript@5.5.2)
@@ -446,7 +446,7 @@ importers:
         version: 4.6.0(eslint@8.56.0)
       eslint-plugin-unused-imports:
         specifier: ^3.0.0
-        version: 3.0.0(@typescript-eslint/eslint-plugin@7.0.2(@typescript-eslint/parser@6.19.0(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)
+        version: 3.0.0(@typescript-eslint/eslint-plugin@7.0.2(@typescript-eslint/parser@7.0.0(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)(typescript@5.5.2))(eslint@8.56.0)
       ink-testing-library:
         specifier: ^4.0.0
         version: 4.0.0(@types/react@18.2.21)
@@ -2127,7 +2127,7 @@ packages:
       typescript:
         optional: true
 
-  '@typescript-eslint/parser@6.19.0':
+  '@typescript-eslint/parser@7.0.0':
     resolution: {integrity: sha512-1DyBLG5SH7PYCd00QlroiW60YJ4rWMuUGa/JBV0iZuqi4l4IK3twKPq5ZkEebmGqRjXWVgsUzfd3+nZveewgow==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
